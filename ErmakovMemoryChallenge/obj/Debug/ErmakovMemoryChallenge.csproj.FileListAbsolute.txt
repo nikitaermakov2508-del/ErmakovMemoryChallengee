@@ -1,0 +1,15 @@
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\bin\Debug\ErmakovMemoryChallenge.exe.config
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\bin\Debug\ErmakovMemoryChallenge.exe
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\bin\Debug\ErmakovMemoryChallenge.pdb
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\ErmakovMemoryChallenge.csproj.AssemblyReference.cache
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\MainWindow.baml
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\MainWindow.g.cs
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\App.g.cs
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\ErmakovMemoryChallenge_MarkupCompile.cache
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\ErmakovMemoryChallenge.g.resources
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\ErmakovMemoryChallenge.Properties.Resources.resources
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\ErmakovMemoryChallenge.csproj.GenerateResource.cache
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\ErmakovMemoryChallenge.csproj.CoreCompileInputs.cache
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\ErmakovMemoryChallenge.exe
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\ErmakovMemoryChallenge.pdb
+C:\МДК\курсовая нормальная\исправ\ErmakovMemoryChallenge\ErmakovMemoryChallenge\obj\Debug\ErmakovMemoryChallenge.exe.config
